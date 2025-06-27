@@ -1,0 +1,1 @@
+I have included KPI , cards for summery the chart such as pie chart, Donut chart, linear graph,bar chart and tables for data visualization. I was not able to finish navigation part , easy path navigation page from button is not responded, manually implemented the buttons  assigned bookmark for each page adjust the action from visual setting but still not reflected the page.
